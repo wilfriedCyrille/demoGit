@@ -16,6 +16,7 @@ public class Hello_Wilfrid {
      */
     public static void main(String[] args) {
         System.out.println("bonjour moi mm");
+        System.out.println("maintenant je vais corriger ");
         // TODO code application logic here
     }
     
